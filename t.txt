@@ -1,0 +1,25 @@
+float global_1 ;
+integer  global_2 ;
+boolean global_3 ;
+global_3 = false;
+global_4 = 5;
+char global_4;
+double global_5;
+integer global_5;
+constant A = 5;
+constant A;
+
+
+function BBW() { constant A; constant A = 5632; x = 50.5;
+float x; float z; integer a; char global_4; string ddp4;
+procedure CCC(){ float x; string ddp4; char y; char y; char DDP4; }
+string ddp4;
+}
+
+string global_6; 
+string gloBal_6;
+
+##THIS IS COMMENT string gloBal_6;
+
+string global_7; 
+string gloBal_6;

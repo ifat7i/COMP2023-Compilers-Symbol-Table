@@ -1,0 +1,38 @@
+
+**(Test 1)**: Reading from the file t.txt and creating a symbol table with size = 19(default)
+
+Error: 'global_4' was not declared in this scope nor the outer scopes
+Error: redeclaration of 'global_5' | Line: 8
+Error: redeclaration of 'A' | Line: 10
+Error: redeclaration of 'A' | Line: 13
+Error: 'x' was not declared in this scope nor the outer scopes
+Error: redeclaration of 'y' | Line: 15
+Error: redeclaration of 'ddp4' | Line: 16
+Error: redeclaration of 'gloBal_6' | Line: 24
+
+==============
+T[0]: 10 ste:	(global_7,string) (gloBal_6,string) (global_6,string) (BBW,function) (A,constant) (global_5,double) (global_4,char) (global_3,boolean) (global_2,integer) (global_1,float) 
+T[1]: 0 ste:	
+T[2]: 0 ste:	
+T[3]: 7 ste:	(CCC,procedure) (ddp4,string) (global_4,char) (a,integer) (z,float) (x,float) (A,constant) 
+T[4]: 0 ste:	
+T[5]: 0 ste:	
+T[6]: 0 ste:	
+T[7]: 0 ste:	
+T[8]: 0 ste:	
+T[9]: 0 ste:	
+T[10]: 0 ste:	
+T[11]: 0 ste:	
+T[12]: 0 ste:	
+T[13]: 0 ste:	
+T[14]: 0 ste:	
+T[15]: 0 ste:	
+T[16]: 0 ste:	
+T[17]: 0 ste:	
+T[18]: 4 ste:	(DDP4,char) (y,char) (ddp4,string) (x,float) 
+
+==============
+(global_7,string) (gloBal_6,string) (global_6,string) (BBW,function) (A,constant) (global_5,double) (global_4,char) (global_3,boolean) (global_2,integer) (global_1,float) 
+**********
+
+==============
